@@ -1,0 +1,23 @@
+p {
+    text-align: center;
+    font-size: 120px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 38vh;
+    color: paleturquoise;
+
+}
+button {
+    color: #66FF66;
+    background-color: black;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(9,255,48,1) 20%, rgba(255,250,0,1) 50%, rgba(2,0,36,1) 100%);
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+}
