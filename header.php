@@ -7,12 +7,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<?php
-     session_start();
-    $_SESSION['username'] = "JadynHunt";
-    echo $_SESSION['username'];
-    echo "\nYou are logged in!";
-    ?>
+
 <br>
     <header>
         <nav>
@@ -29,7 +24,7 @@
                 <input type="password" name="pwd" placeholder="Password...">
                 <button type="submit" name="login-submit">Login</button>
                 </form>
-                <a href="singup.php">Sign Up</a>
+                <a href="signup.php">Sign Up</a>
                 <form action="includes/logout.inc.php" method="post">
                 <button type="submit" name="logout-submit">logout</button>
                 </form>
