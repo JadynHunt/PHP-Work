@@ -7,12 +7,12 @@ p {
 
 }
 button {
-    color: #66FF66;
+    color: #2a52be;
     background-color: white;
 }
 
 body {
-    background: linear-gradient(90deg, rgba(9,255,48,1) 20%, rgba(255,250,0,1) 50%, rgba(2,0,36,1) 100%);
+    background: linear-gradient(90deg, rgba(9,255,48,1) 34%, rgba(255,250,0,1) 66%, rgba(21,176,240,1) 100%);
 }
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
